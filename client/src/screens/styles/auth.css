@@ -1,0 +1,68 @@
+
+
+.auth{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    flex: 1;
+    background-color: rgb(235, 233, 223);
+    border: 2px solid rgb(243, 240, 247);
+    padding: 40px;
+    flex-direction: row;
+}
+
+.login{
+    border: 2px solid rgb(238, 231, 231);
+    margin-right: 10px;
+    padding: 7px;
+    height: 50vh;
+}
+.register{
+    border: 2px solid rgb(156, 151, 151);
+    margin-left: 10px;
+    padding: 7px;
+    height: 50vh;
+    box-shadow: 50px;
+}
+
+.register .form{
+    background-color: white;
+    height: 50vh;
+}
+
+.register .form-group{
+    background-color:rgb(150, 144, 144);
+    padding: 10px;
+}
+
+.register button{
+    margin-left: 80px;
+    margin-top: 10px;
+    padding: 7px;
+    width: 35%;
+}
+
+.login .form{
+    background-color: white;
+    height: 50vh;
+}
+
+.login{
+    border: 2px solid rgb(156, 151, 151);
+    margin-right: 10px;
+    padding: 7px;
+    height: 50vh;
+    box-shadow: 50px;
+}
+
+.login .form-group{
+    background-color:rgb(150, 144, 144);
+    padding: 10px;
+}
+
+.login button{
+    margin-left: 80px;
+    margin-top: 10px;
+    padding: 7px;
+    width: 35%;
+}
